@@ -1,0 +1,178 @@
+[
+  {
+    "name": ".gitignore",
+    "path": "extensions/google-search/.gitignore",
+    "sha": "84fc7188f5137d9f72743561e242133d2ae0d431",
+    "size": 252,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/.gitignore?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/.gitignore",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/84fc7188f5137d9f72743561e242133d2ae0d431",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/.gitignore?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/84fc7188f5137d9f72743561e242133d2ae0d431",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/.gitignore"
+    }
+  },
+  {
+    "name": ".prettierrc",
+    "path": "extensions/google-search/.prettierrc",
+    "sha": "b7d51e04aa8d3cd8c5ae5c1c1d701bfee1e6c361",
+    "size": 47,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/.prettierrc?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/.prettierrc",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/b7d51e04aa8d3cd8c5ae5c1c1d701bfee1e6c361",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/.prettierrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/.prettierrc?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/b7d51e04aa8d3cd8c5ae5c1c1d701bfee1e6c361",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/.prettierrc"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "extensions/google-search/CHANGELOG.md",
+    "sha": "277db8e61c2c9c96abde02da85ae10926df99ddb",
+    "size": 2018,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/CHANGELOG.md?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/277db8e61c2c9c96abde02da85ae10926df99ddb",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/CHANGELOG.md?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/277db8e61c2c9c96abde02da85ae10926df99ddb",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "extensions/google-search/README.md",
+    "sha": "37c0d223a40c2bac6e8716b6743d4f7a4034bac6",
+    "size": 809,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/README.md?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/README.md",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/37c0d223a40c2bac6e8716b6743d4f7a4034bac6",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/README.md?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/37c0d223a40c2bac6e8716b6743d4f7a4034bac6",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/README.md"
+    }
+  },
+  {
+    "name": "assets",
+    "path": "extensions/google-search/assets",
+    "sha": "b4117e1fe8747f09470f7f2dbcd542cb54c0e0f8",
+    "size": 0,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/assets?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/assets",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/trees/b4117e1fe8747f09470f7f2dbcd542cb54c0e0f8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/assets?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/trees/b4117e1fe8747f09470f7f2dbcd542cb54c0e0f8",
+      "html": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/assets"
+    }
+  },
+  {
+    "name": "eslint.config.mjs",
+    "path": "extensions/google-search/eslint.config.mjs",
+    "sha": "a17709640a97849f1daffa9723e06c7ce3bb3fee",
+    "size": 148,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/eslint.config.mjs?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/eslint.config.mjs",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/a17709640a97849f1daffa9723e06c7ce3bb3fee",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/eslint.config.mjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/eslint.config.mjs?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/a17709640a97849f1daffa9723e06c7ce3bb3fee",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/eslint.config.mjs"
+    }
+  },
+  {
+    "name": "metadata",
+    "path": "extensions/google-search/metadata",
+    "sha": "bc799a79f8b9d140214258ee502f86949c11a8ce",
+    "size": 0,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/metadata?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/metadata",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/trees/bc799a79f8b9d140214258ee502f86949c11a8ce",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/metadata?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/trees/bc799a79f8b9d140214258ee502f86949c11a8ce",
+      "html": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/metadata"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "extensions/google-search/package-lock.json",
+    "sha": "c1deaf3222903d061046fb1c0f05b20169d23e6b",
+    "size": 106975,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/package-lock.json?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/package-lock.json",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/c1deaf3222903d061046fb1c0f05b20169d23e6b",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/package-lock.json?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/c1deaf3222903d061046fb1c0f05b20169d23e6b",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "extensions/google-search/package.json",
+    "sha": "e93f5bc2a7acdfa14282245b7675b44d79e3340a",
+    "size": 2072,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/package.json?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/package.json",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/e93f5bc2a7acdfa14282245b7675b44d79e3340a",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/package.json?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/e93f5bc2a7acdfa14282245b7675b44d79e3340a",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/package.json"
+    }
+  },
+  {
+    "name": "src",
+    "path": "extensions/google-search/src",
+    "sha": "81dac3f548bcf575931f2f655daa9974663a26c7",
+    "size": 0,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/src?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/src",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/trees/81dac3f548bcf575931f2f655daa9974663a26c7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/src?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/trees/81dac3f548bcf575931f2f655daa9974663a26c7",
+      "html": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/src"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "extensions/google-search/tsconfig.json",
+    "sha": "5a0a1512e6da7aa91e9e95ba182aaadc895067e9",
+    "size": 408,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/tsconfig.json?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/tsconfig.json",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/5a0a1512e6da7aa91e9e95ba182aaadc895067e9",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/google-search/tsconfig.json?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/5a0a1512e6da7aa91e9e95ba182aaadc895067e9",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/google-search/tsconfig.json"
+    }
+  }
+]

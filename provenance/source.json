@@ -1,0 +1,65 @@
+{
+  "slug": "google-search",
+  "status": "source-inputs-only",
+  "standalone": false,
+  "source_pack_complete_for_research": true,
+  "repository": "almatkai/google-search",
+  "repository_exists_at_inventory": false,
+  "repository_visibility": null,
+  "repository_proposed_name": "google-search",
+  "publish_allowed": "not-approved; research inputs need integration/license review",
+  "app_base": "fe71ca87f21ac4ff31505010c228f8abda0f2a89",
+  "app_branch": "fix/beta15-external-rust-extensions",
+  "source_sha256": "a55393295893e049b522e0255ae95374e40e40a1a24a2c3c1e7f58cd517de259",
+  "source_module": "src-tauri/src/native_core/extensions/v2_google_search.rs",
+  "manifest": "manifest.v2.json",
+  "manifest_icon_original_copied": true,
+  "manifest_asset_references": [
+    "command-icon.png"
+  ],
+  "actual_missing_assets": [],
+  "commands": 2,
+  "runtime_validation": "not-run",
+  "remaining_port_couplings": "Host selected text/clipboard/history/store/URL opening/hide; Google suggestions HTTP.",
+  "host_request_routes": [
+    "clipboard:read",
+    "core:platform:selected-text",
+    "window:hide"
+  ],
+  "sdk_functions": [
+    "copy",
+    "encode_component",
+    "no_view",
+    "open",
+    "read_store",
+    "unchanged",
+    "update_store",
+    "view"
+  ],
+  "license_notices": [
+    "App LICENSE retained exactly (Apache-2.0, existing Almat notice); retain Raycast MIT and original author/contributor metadata; not one license for all third-party assets. Original icons preserved; no trademark grant or independent authorship invented."
+  ],
+  "installed_public_metadata": {
+    "author": "mblode",
+    "contributors": [
+      "VBenny42",
+      "ridemountainpig",
+      "jlokos",
+      "YourMCGeek",
+      "alexi.build",
+      "tofrankie"
+    ],
+    "license": "MIT",
+    "version": null
+  },
+  "installed_upstream_exact_commit": "unknown",
+  "upstream_snapshot": {
+    "slug": "google-search",
+    "repository": "raycast/extensions",
+    "snapshot_commit": "97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "installed_exact_upstream_commit": "unknown",
+    "extension_path": "extensions/google-search",
+    "errors": []
+  },
+  "existing_repository_upstream": null
+}
