@@ -1,0 +1,70 @@
+{
+  "appCommit": "fe71ca87f21ac4ff31505010c228f8abda0f2a89",
+  "files": [
+    {
+      "path": "src-tauri/src/native_core/extensions/v2_google_search.rs",
+      "size": 23153,
+      "sha256": "a55393295893e049b522e0255ae95374e40e40a1a24a2c3c1e7f58cd517de259",
+      "originType": "app-git",
+      "originCommit": "fe71ca87f21ac4ff31505010c228f8abda0f2a89"
+    },
+    {
+      "path": "LICENSE",
+      "size": 10750,
+      "sha256": "0ed6b1b2760294d4aaaa45be38e166fcc0168e1dd5190423c096fcbe1c94afbf",
+      "originType": "app-git",
+      "originCommit": "fe71ca87f21ac4ff31505010c228f8abda0f2a89"
+    },
+    {
+      "path": "licenses/raycast-extensions-MIT.txt",
+      "size": 1064,
+      "sha256": "7f727f8b20cdd0e65f84e70b9cac2fce337dcecee4dc88955eb012ea27f02755",
+      "originType": "app-git",
+      "originCommit": "fe71ca87f21ac4ff31505010c228f8abda0f2a89"
+    },
+    {
+      "path": "manifest.v2.json",
+      "size": 1776,
+      "sha256": "d2d26c5ad93512899c06ffa3c87c8bfda0c9f2c9eb4a94f4760ec0ef2cd86dff",
+      "originType": "catalog-selection",
+      "originCommit": "fe71ca87f21ac4ff31505010c228f8abda0f2a89"
+    },
+    {
+      "path": "provenance/installed-package.json",
+      "size": 1877,
+      "sha256": "09a13337032cc893f2fc53cfb68763aca22cf19bd82dbe6530138a96fc30fc6f",
+      "originType": "local-read-only"
+    },
+    {
+      "path": "assets/command-icon.png",
+      "size": 30427,
+      "sha256": "00a22d04075e771c6a0233df4724f46f0ab75e63f00a865e1bc3799a551853cc",
+      "originType": "local-read-only"
+    },
+    {
+      "path": "provenance/upstream-directory.json",
+      "size": 12523,
+      "sha256": "66fece1d043fb5d4dc546747c99225ef45caeb0e52314127fe06de589f48d8f1",
+      "originType": "github-api",
+      "originCommit": "97ee2594a03a94fa439c26864d85ad9a96dc9fc9"
+    },
+    {
+      "path": "provenance/current-upstream/README.md",
+      "size": 809,
+      "sha256": "60d17dc54c303e741ef8ff3be7a59d9380127fe926395bcd776762839812415f",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/current-upstream/package.json",
+      "size": 2072,
+      "sha256": "2624d3fccd581a53cfb3deb20d2dca0051e8de09a913ead64937775ca4e70383",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/current-upstream/repository-LICENSE",
+      "size": 1064,
+      "sha256": "7f727f8b20cdd0e65f84e70b9cac2fce337dcecee4dc88955eb012ea27f02755",
+      "originType": "https"
+    }
+  ]
+}

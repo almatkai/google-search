@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 3,
+  "id": "com.tezbar.native.google-search",
+  "slug": "google-search",
+  "name": "Google Search",
+  "version": "1.0.0",
+  "description": "Google search with autosuggestions",
+  "author": "mblode",
+  "icon": "resources/assets/command-icon.png",
+  "runtime": "rust",
+  "replaces": [
+    "raycast.google-search"
+  ],
+  "platforms": [
+    "macOS",
+    "Windows"
+  ],
+  "preferences": [
+    {
+      "name": "rememberSearchHistory",
+      "type": "checkbox",
+      "required": false,
+      "default": true,
+      "label": "Remember Search History",
+      "description": "Enable this checkbox to locally store Google search history."
+    },
+    {
+      "name": "useClipboardFallback",
+      "type": "checkbox",
+      "required": false,
+      "default": false,
+      "label": "Use Clipboard Fallback",
+      "description": "When no text is selected, fall back to using clipboard content for search."
+    }
+  ],
+  "commands": [
+    {
+      "name": "index",
+      "title": "Google Search",
+      "description": "Google search with autosuggestions",
+      "mode": "view",
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "concurrency": "serialize",
+      "refreshMs": null
+    },
+    {
+      "name": "searchSelectText",
+      "title": "Google Search Selected Text",
+      "description": "Google search with selected text",
+      "mode": "no-view",
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "concurrency": "serialize",
+      "refreshMs": null
+    }
+  ],
+  "verification": [
+    {
+      "platform": "macOS",
+      "state": "not-run"
+    },
+    {
+      "platform": "Windows",
+      "state": "not-run"
+    }
+  ],
+  "execution": "process",
+  "protocolVersion": 1,
+  "repository": "https://github.com/almatkai/google-search",
+  "artifacts": {},
+  "capabilities": [
+    "selection.read",
+    "clipboard.read",
+    "clipboard.write",
+    "shell.open",
+    "window.visibility"
+  ],
+  "migrationPaths": {
+    "nativeStore": "native-extensions-v2/google-search/storage.json",
+    "legacyLocalStorage": "extensions/google-search/.tezbar-local-storage.json"
+  },
+  "files": {}
+}
